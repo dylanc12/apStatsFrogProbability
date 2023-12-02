@@ -34,6 +34,6 @@ for i in range(trials):
             break
 
 probabilityOn = onBoard/trials # ~0.56
-probabilityOff = offBoard/trails # ~0.44
+probabilityOff = offBoard/trials # ~0.44
 print("Probability Off: " + str(probabilityOff))
 print("Probability On: " + str(probabilityOn))
